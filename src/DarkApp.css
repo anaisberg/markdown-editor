@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+  }
+  
+  textarea {
+    background-color: black !important;
+    color: white !important; 
+  }
+  
+  a {
+    color: lightblue;
+  }
+  
+  pre code {
+    color: lightgoldenrodyellow;
+  }
+  
+  .container {
+    background-color: black;
+    color: white;
+    margin-top: 24px;
+  }
+  
+  .form-control {
+    color: white;
+    background-color: black;
+    background-clip: padding-box;
+    border: 1px solid lightsalmon;
+  }
